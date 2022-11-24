@@ -1,0 +1,12 @@
+.chessCol{
+ background-color: #eee;;
+  height:50px;
+}
+.queen{
+  background:rgb(70, 58, 58);
+}
+
+.chessBoardArea{
+  border:1px solid rgb(0, 0, 0);
+  min-height:90vh;
+}
